@@ -48,7 +48,7 @@ This project implements a genetic algorithm for optimizing the weights of a neur
 4. Monitor the training process and evaluate the accuracy of the evolved neural network models.
 5. The final output will be a plot showing the accuracy history of each network in the population over the generations.
 ## Result plot
-![accuray over new generations](https://github.com/ShadmehrBakhtiary/genetic-optimization/blob/main/download.png?raw=true)
+![[accuray over new generations](https://github.com/ShadmehrBakhtiary/genetic-optimization/blob/main/download.png?raw=true](https://github.com/ShadmehrBakhtiary/genetic-optimization/blob/main/Screenshot%202024-06-09%20165859.png?raw=true))
 ## Further Improvements
 
 1. Experiment with different hyperparameters (population size, mutation rate, generations) to optimize the genetic algorithm.
